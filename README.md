@@ -56,9 +56,9 @@
 
 ## 📈 GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlvinSetyaPranata)](https://github.com/AlvinSetyaPranata)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wahyudiRomadhoni)](https://github.com/wahyudiRomadhoni)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinSetyaPranata&layout=compact)](https://github.com/AlvinSetyaPranata)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyudiRomadhoni&layout=compact)](https://github.com/wahyudiRomadhoni)
 
 <br>
     
